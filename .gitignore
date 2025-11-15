@@ -52,6 +52,8 @@ punctual.db-*
 
 # Logs
 *.log
+server.log
+nohup.out
 
 # Testing
 .pytest_cache/
@@ -64,4 +66,3 @@ poetry.lock
 # Temporary files
 *.tmp
 *.bak
-
